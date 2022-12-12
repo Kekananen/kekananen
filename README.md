@@ -1,6 +1,6 @@
 ### Heya I am Kathryn or Kat.
 
-I love everything population genetics and evolutionary biology wise and may be willing to collaborate. I apologize in advance if the answer is no however as I can't take on more project then time allows.
+I love everything population genetics and evolutionary biology wise and may be willing to collaborate. Even if I may really wish to work on a tpoic with you, there is a chance I may have to decline as I can't take on more project then time allows for. 
 
 ### I am an Bioinformatic and Computational researcher at the Ohio State University Wexner Medical Center.
 Currently I am working on several projects spread accross three groups including
