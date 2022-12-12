@@ -6,7 +6,7 @@ Currently I am working on several projects spread accross three groups including
 - Transcriptomic analysis 
 - De novo Assembly including hybrid scaffolding with optical genome mapping and 3rd generation sequencing data
 
-I love everything population genetics and evolutionary biology wise and may be willing to colloborate. 
+I love everything population genetics and evolutionary biology wise and may be willing to collaborate. 
 
 ---
 [![Kathryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekananen&theme=merko)](https://github.com/kekananen/github-readme-stats)
