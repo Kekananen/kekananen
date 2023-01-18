@@ -10,9 +10,9 @@ Currently I am working on several projects spread accross three groups including
 - De novo Assembly including hybrid scaffolding with optical genome mapping and 3rd generation sequencing data
 
 ---
-[![Kathryn's GitHub stats]([https://github-readme-stats.vercel.app/api?username=kekananen&theme=merko)](https://github.com/kekananen/github-readme-stats)
+![Kathryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekananen&count_private=true&theme=merko)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekananen&layout=compact)](https://github.com/kekananen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekananen&layout=compact)](https://github.com/kekananen/github-readme-stats&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 <!--
 **Kekananen/kekananen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
