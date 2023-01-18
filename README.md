@@ -10,7 +10,7 @@ Currently I am working on several projects spread accross three groups including
 - De novo Assembly including hybrid scaffolding with optical genome mapping and 3rd generation sequencing data
 
 ---
-[![Kathryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekananen&theme=merko)](https://github.com/kekananen/github-readme-stats)
+[![Kathryn's GitHub stats]([https://github-readme-stats.vercel.app/api?username=kekananen&theme=merko)](https://github.com/kekananen/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kekananen&layout=compact)](https://github.com/kekananen/github-readme-stats)
 
