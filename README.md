@@ -8,7 +8,7 @@
 
 ---
 
-My focus at the moment in metagenomics; however, I love everything population genetics and evolutionary biology wise and may be willing to collaborate. Even if I may really wish to work on a topic with you, there is a chance I may have to decline as I can't take on more project then time allows for. If you want to do a collaboration, reach out and we can see if it is something that is in scope for my work. I will do my best to point you to resources minimally if we can't work something. 
+My focus at the moment is in metagenomics; however, I love everything population genetics and evolutionary biology wise and may be willing to collaborate. Even if I may really wish to work on a topic with you, there is a chance I may have to decline as I can't take on more project then time allows for. If you want to do a collaboration, reach out and we can see if it is something that is in scope for my work. I will do my best to point you to resources minimally if we can't work something. 
 
 ### Current Projects 
 - Creation of biological workflows and automization of data processes for 'omic datasets.
