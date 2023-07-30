@@ -12,6 +12,8 @@ My focus at the moment is in metagenomics; however, I love everything population
 
 ### Current Projects 
 - Creation of biological workflows and automization of data processes for 'omic datasets.
+- Updating the [Phylogenize](https://phylogenize.org/) tool databases
+- Comparing genomic architecture of the Lactobacillus family.
 #### Past Projects 2020-2023
 - The creation of a [cBioPortal](https://www.cbioportal.org/) instance for the a project in collaboration with the Total Cancer Center
 - De novo Assembly including hybrid scaffolding with optical genome mapping and 3rd generation sequencing data
