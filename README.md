@@ -26,14 +26,18 @@ My focus at the moment is in metagenomics; however, I love everything population
 - Mapping population characterization and genomic archetecture in landraces of Zea mays
 ---
 ## Current Stats
+
 <div align="left"> 
-  <a href="https://github.com/Kekananen/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats-roan-nine-55.vercel.app/api?username=kekananen&show_icons=true&line_height=28&hide_border=true&card_width=347&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Kathryn's Github Stats: All Time" />
+  <a>
+    <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kekananen&theme=default" alt="Kathryn's Github Stats: All Time" />
+    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kekananen&theme=default" alt="Kathryn's Github Stats: All Time" />
+    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kekananen&theme=default&utcOffset=8" alt="Kathryn's Github Stats: All Time" />
   </a>
-  <a href="https://github.com/Kekananen/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats-roan-nine-55.vercel.app/api/top-langs/?username=kekananen&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Kathryn's Language stats" />
+  
+  <a>
+    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kekananen&theme=default" alt="Kathryn's Languages: All Time" />
+    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kekananen&theme=default" alt="Kathryn's Languages: All Time" />
   </a>
 </div>
-
 <!--
 **Kekananen/kekananen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
