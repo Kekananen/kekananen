@@ -11,15 +11,16 @@
 My focus at the moment is in metagenomics; however, I love everything population genetics and evolutionary biology wise and may be willing to collaborate. Even if I may really wish to work on a topic with you, there is a chance I may have to decline as I can't take on more project then time allows for. If you want to do a collaboration, reach out and we can see if it is something that is in scope for my work. I will do my best to point you to resources minimally if we can't work something. 
 
 ### Current Projects 
-- Creation of biological workflows and automization of data processes for 'omic datasets.
+- Creation of biological workflows and automization of data processes for 'omic datasets
 - Updating the [Phylogenize](https://phylogenize.org/) tool databases
-- Comparing genomic architecture of the Lactobacillus family.
+- Comparing genomic architecture of the Lactobacillus family
 #### Past Projects 2020-2024
 - The creation of a [cBioPortal](https://www.cbioportal.org/) instance for the a project in collaboration with the Total Cancer Center
 - De novo Assembly including hybrid scaffolding with optical genome mapping and 3rd generation sequencing data
 - Development of data provisioning system for ingress and egress of large quantites of data (Terabytes)
 - Creation of biological workflows and automization of data processes for onco-related 'omic datasets
-- Functional gene annotation comparison and methods exploration.
+- Functional gene annotation comparison and methods exploration
+- Creation of robust Homo sapien host contamination removal workflow from metagenomic samples
 #### Past Projects 2015-2020
 - Development of statiscial software for BSA visualization
 - Development of variant ranking packages using human population databases
