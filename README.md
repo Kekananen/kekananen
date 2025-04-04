@@ -14,11 +14,12 @@ My focus at the moment is in metagenomics; however, I love everything population
 - Creation of biological workflows and automization of data processes for 'omic datasets.
 - Updating the [Phylogenize](https://phylogenize.org/) tool databases
 - Comparing genomic architecture of the Lactobacillus family.
-#### Past Projects 2020-2023
+#### Past Projects 2020-2024
 - The creation of a [cBioPortal](https://www.cbioportal.org/) instance for the a project in collaboration with the Total Cancer Center
 - De novo Assembly including hybrid scaffolding with optical genome mapping and 3rd generation sequencing data
 - Development of data provisioning system for ingress and egress of large quantites of data (Terabytes)
 - Creation of biological workflows and automization of data processes for onco-related 'omic datasets
+- Functional gene annotation comparison and methods exploration.
 #### Past Projects 2015-2020
 - Development of statiscial software for BSA visualization
 - Development of variant ranking packages using human population databases
